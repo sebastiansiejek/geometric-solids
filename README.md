@@ -1,2 +1,2 @@
-# geometric-solids
-# geometric-solids
+# Geometric solid in objective C++
+
